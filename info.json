@@ -1,8 +1,11 @@
 {
   "name": "burner-tweak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Burner Tweak",
   "author": "Radonier",
   "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
   "description": "A small tweaks mod that modifies the base game burner system for some interesting changes. Makes it so that burnable entities have varying efficiencies and fuels have different pollution values"
 }
